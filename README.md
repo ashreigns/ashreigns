@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm ashswagg29 | Python Developer
 
-<!--
-**ashswagg29/ashswagg29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+But you can call me Ash.
 
-Here are some ideas to get you started:
+An enthusiastic developer focused on building interactive desktop applications, custom UI architectures, and locally deployed AI assistant frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Tooling
+
+* **Languages:** Python (3.11+)
+* **GUI & Frameworks:** Tkinter, Pillow (PIL)
+* **API Integration:** REST APIs, JSON Processing (OpenWeatherMap, etc.)
+* **Environments & Tools:** VS Code, Git, GitHub
+
+## 📈 Recent Projects
+
+* 🌤️ **[Dynamic Weather Application](https://github.com/ashswagg29/dynamic-weather-app):** A desktop application featuring a custom physics-based particle system (Rain, Snow, Stars, Lightning) and adaptive UI geometry.
+
+---
+*⚡ "Code is like humor. When you have to explain it, it’s bad."*
