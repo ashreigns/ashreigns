@@ -9,9 +9,5 @@ An aspiring software developer from Turkey, working towards building a global ca
 
 ### 🛠️ Tech Stack:
 - **Languages:** Python, C++, C#, Lua
-- **Tools & Environments:** VS Code, Git, GitHub
-
-### 📈 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashswagg29&show_icons=true&theme=dark" alt="ashswagg29 github stats" />
-</p>
+- **Version Control:** Git, GitHub
+- **Editors / IDEs:** VS Code, PyCharm
