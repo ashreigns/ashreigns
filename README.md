@@ -12,4 +12,4 @@ An aspiring software developer from Turkey, working towards building a global ca
 - **Tools & Environments:** VS Code, Git, GitHub
 
 ### 📈 GitHub Stats
-[![]](https://github-readme-stats.vercel.app/api?username=ashswagg29&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashswagg29&show_icons=true&theme=dark)
