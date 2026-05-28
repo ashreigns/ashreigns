@@ -1,19 +1,15 @@
-# 👋 Hi, I'm ashswagg29 | Python Developer
+# Hi 👋, I'm Yağız but you can call me Ash.
 
-But you can call me Ash.
+An aspiring software developer from Turkey, working towards building a global career in tech.
 
-An enthusiastic developer focused on building interactive desktop applications, custom UI architectures, and locally deployed AI assistant frameworks.
+### 🚀 About Me:
+- 💻 Currently diving deep into **Python**, **C++**, **C#**, and **Lua**.
+- 🛠️ Interested in automation, backend development, and building local AI assistants.
+- 🎯 Goal: Developing high-quality software and preparing for global opportunities.
 
-## 🛠️ Tech Stack & Tooling
+### 🛠️ Tech Stack:
+- **Languages:** Python, C++, C#, Lua
+- **Tools & Environments:** VS Code, Git, GitHub
 
-* **Languages:** Python (3.11+)
-* **GUI & Frameworks:** Tkinter, Pillow (PIL)
-* **API Integration:** REST APIs, JSON Processing (OpenWeatherMap, etc.)
-* **Environments & Tools:** VS Code, Git, GitHub
-
-## 📈 Recent Projects
-
-* 🌤️ **[Dynamic Weather Application](https://github.com/ashswagg29/dynamic-weather-app):** A desktop application featuring a custom physics-based particle system (Rain, Snow, Stars, Lightning) and adaptive UI geometry.
-
----
-*⚡ "Code is like humor. When you have to explain it, it’s bad."*
+### 📈 GitHub Stats
+[![]](https://github-readme-stats.vercel.app/api?username=ashswagg29&show_icons=true&theme=dark)
