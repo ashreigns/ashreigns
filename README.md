@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yağız but you can call me Ash.
+# Hi 👋, I'm Muhammed Yağız Arslan but you can call me Ash.
 
 An aspiring software developer from Turkey, working towards building a global career in tech.
 
