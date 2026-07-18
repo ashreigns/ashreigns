@@ -28,15 +28,6 @@ An aspiring software developer from Turkey, focused on backend architectures, au
 
 ---
 
-### 📊 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashreigns&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Ashreigns GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashreigns&layout=compact&theme=tokyonight&hide_border=true" alt="Ashreigns Top Languages" width="48%" />
-</p>
-
----
-
 ### 🌐 Connect & Find Me
 <p align="left">
   <a href="https://guns.lol/ashreigns" target="_blank">
